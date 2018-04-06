@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     //test
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        var a,b;
+        //varaibale to add two numbers
         // Dispose of any resources that can be recreated.
     }
 
